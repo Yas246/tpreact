@@ -1,4 +1,4 @@
-npm install --force
+# npm install --force
 
 Une fois le dépôt cloné, accédez au répertoire du projet et exécutez la commande suivante pour installer les dépendances requises :
 
